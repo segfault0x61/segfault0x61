@@ -11,6 +11,7 @@ Skills: C# / ASP.NET Core / Angular / Typescript / T-SQL
 - ⚡ Fun fact: I like to skateboard. 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=segfault0x61&show_icons=true&locale=en&layout=compact" alt="segfault0x61" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=segfault0x61&show_icons=true&locale=en&layout=compact&hide=c,html&theme=tokyonight" alt="segfault0x61" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=segfault0x61&show_icons=true&locale=en" alt="segfault0x61" /></p> -->
+ 
