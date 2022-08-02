@@ -6,7 +6,7 @@
 Skills: C# / ASP.NET Core / Angular / Typescript / T-SQL
 
 - 🔭 I’m currently working on ... something cool! 
-- 🌱 I’m currently learning ... Node.js, Docker, more backend. 
+- 🌱 I’m currently learning ... Typescript, Next.js, anything backend related. 
 - 👯 I’m looking to collaborate on .. more open source projects. 
 - ⚡ Fun fact: I like to skateboard. 
 
